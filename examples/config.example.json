@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "account_key": "000000000000000000000000",
+  "groups": [{"chat_id": 101, "name": "Example group"}],
+  "batch_size": 100,
+  "recent_limit": 100,
+  "wait_seconds": 45,
+  "interval_seconds": 30
+}
